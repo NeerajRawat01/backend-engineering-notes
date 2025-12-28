@@ -676,7 +676,3 @@ In order:
 4️⃣ Reverse proxies (Nginx)
 5️⃣ Load balancers
 6️⃣ How auth works over HTTP
-
-If you want, next I can **draw the full request lifecycle with diagrams (text-based)** or go **inside Uvicorn / Node HTTP server code flow**.
-
-Just say where you want to go deeper 🚀
